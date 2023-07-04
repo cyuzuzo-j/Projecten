@@ -6,7 +6,7 @@ Alle projecten (buiten die van peno ) zijn gemaakt voor mijn eigen plezier en zi
 Dit is work in progress dus maar een kleine fractie van al mijn projecten zijn hier te vinden.
 ## Python
 ### machine learning
-* #### btcbot:
+* #### [BtcBot](https://github.com/cyuzuzo-j/btcbot4.0):
         Dit is een "onderzoek" project om te testen hoe autoencoders grotendeels stochatische kunnen benaderen
         om trainingsdata te genereren / preprocessen.In andere itteraties van dit project heb ik het nut van transformers, reinforcement learning getest.
 * #### VierOpEenRij:
