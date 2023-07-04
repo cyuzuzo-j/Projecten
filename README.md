@@ -24,7 +24,7 @@ Dit is work in progress dus maar een kleine fractie van al mijn projecten zijn h
           Dit is een project waarbij ik een script heb geschreven dat een spotify playlist omzet naar mp4 bestanden.
 
 ## arduino
-* #### Peno2:
+* #### [Peno2:](https://github.com/cyuzuzo-j/arduino_code_211)
         In dit project hebben voornamelijk Mauro Jannsens en ik (rest van het team staat vanonder). 
         De besturing van een robot op basis van isntructies die van draadloos van een android app kwamen, sensor data van een enkele magneet sensor, een gewichtsensor en een kleursensor.
         peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
