@@ -3,7 +3,7 @@
 ## inleiding
 Dit is een collectie van mijn oude en recente projecten 
 Alle projecten (buiten die van peno ) zijn gemaakt voor mijn eigen plezier en zijn dus enkel gecomment op plekken waar ik het persoonlijk nuttig vond.
-Dit is work in progress dus maar een kleine fractie van al mijn projecten zijn hier te vinden.
+Dit is work in progress dus maar een kleine fractie van al mijn projecten zijn hier te vinden.(Deze repo is nog in opbouw)
 ## Python
 ### machine learning
 * #### [BtcBot:](https://github.com/cyuzuzo-j/btcbot4.0)
