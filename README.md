@@ -33,7 +33,8 @@ Dit is work in progress dus maar een kleine fractie van al mijn projecten zijn h
 
 ## front end development
 * #### Peno2:
-        In dit Project was ik verantwoordelijk voor de android app (aleen), arduino code (met Mauro Jansens).Deze code bevat de front end van de applicatie en de communicatie met de arduino (via http). [playstore link](link naar de app https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
+* #####  [playstore](link naar de app https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
+        In dit Project was ik verantwoordelijk voor de android app (aleen), arduino code (met Mauro Jansens).Deze code bevat de front end van de applicatie en de communicatie met de arduino (via http).
         peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
 
 * #### Peno3:
