@@ -31,9 +31,10 @@ Hier vindt u een overzicht van mijn oude en recente projecten. Alle projecten (b
 
 ## front end development
 * #### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp):
-[playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
+
 In dit Project was ik verantwoordelijk voor de android app (aleen), arduino code (met Mauro Jansens).Deze code bevat de front end van de applicatie en de communicatie met de arduino (via http).
-        peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
+peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
+[playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
 
 * #### Peno3:
         In dit Project Is de frontEnd gebouwed in js React.
