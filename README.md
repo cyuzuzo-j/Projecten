@@ -1,7 +1,7 @@
 
 # Projecten
 ## inleiding
-Hier vindt u een overzicht van mijn oude en recente projecten. Alle projecten (behalve die van peno) zijn gemaakt uit eigen interesse en zijn daarom alleen voorzien van commentaar waar ik dat nodig achtte. Dit is een lopend project, dus slechts een klein deel van al mijn projecten is hier te zien. (Deze repo is nog in ontwikkeling)
+Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en nieuwe projecten. Ik heb deze projecten gedaan uit persoonlijke interesse en passie, dus ik heb alleen commentaar toegevoegd waar ik dat toen nodig vond. (Deze repo is nog in ontwikkeling)
 ## Python
 ### machine learning
 * #### [BtcBot:](https://github.com/cyuzuzo-j/btcbot4.0)
@@ -38,7 +38,13 @@ Hier vindt u een overzicht van mijn oude en recente projecten. Alle projecten (b
 
 * #### Peno3:
         In dit Project Is de frontEnd gebouwed in js React.
-        peno3 team: Daniel Kawam,Jakob De Meyere, Maarten Cailoux, Maxime Brion; Vincent Cautaerts, Jeff Jambé
+        peno3 team: Daniel Kawam,Jakob De Meyere, Maarten Cailoux, Maxime Brion; Vincent Cautaerts,
+* #### varia:
+[water niveau meter](https://www.figma.com/proto/6Y9URGF1Qm95b1CGHM1RMq/Sensor-app?page-id=14%3A141&type=design&node-id=14-142&viewport=552%2C-635%2C1.84&t=4OanNExQR7M7p960-1&scaling=scale-down&starting-point-node-id=14%3A142&mode=design), [peno3 prototype 1](https://www.figma.com/proto/R3G63IjHz1RToK2EN21NWL/peno3?page-id=0%3A1&type=design&node-id=92-2&viewport=338%2C416%2C0.63&t=lzBivBhJ2zpuXJew-1&scaling=min-zoom&mode=design) [peno3 prototype2](https://www.figma.com/proto/WqvgEhjLeV9MLNjzAGIq0s/Untitled?page-id=0%3A1&type=design&node-id=119-252&viewport=-246%2C27%2C0.21&t=4IBjpXAsqhNpVBv2-1&scaling=min-zoom&starting-point-node-id=119%3A252&show-proto-sidebar=1&mode=design)
+
+
+
+ 
 
         
         
