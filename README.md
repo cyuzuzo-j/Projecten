@@ -8,8 +8,8 @@ Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en 
         Dit is een "onderzoek" project om te testen hoe autoencoders grotendeels stochatische kunnen benaderen
         om trainingsdata te genereren / preprocessen.In andere itteraties van dit project heb ik het nut van transformers, reinforcement learning getest.
 * #### [VierOpEenRij:](https://github.com/cyuzuzo-j/Connect4)
-        Dit is een project waar ik een bot heb gemaakt die probeert vier op een rij te spelen.
-        In dit project heb ik gebruik gemaakt van deep q learning.(Dit is een project van 3 jaar geleden)
+        Dit is een project waar ik een aan het maken ben bot die probeert vier op een rij te spelen.
+        In dit project heb ik gebruik gemaakt van deep q learning.
 * #### DroneControl:
         Dit is een project waarbij ik via een gyroscoop en een raspberry pi een drone heb proberen te besturen.
         Het speciaale aan dit project is dat bij de start an het programma je de verschillende richtingen gaat calibreren door een willekeurige beweging te maken met je hand.
