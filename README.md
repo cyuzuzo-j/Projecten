@@ -1,4 +1,4 @@
-
+theme: Cayman
 # Projecten
 ## inleiding
 Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en nieuwe projecten. Ik heb deze projecten gedaan uit persoonlijke interesse en passie, dus ik heb alleen commentaar toegevoegd waar ik dat toen nodig vond. (Deze repo is nog in ontwikkeling)
