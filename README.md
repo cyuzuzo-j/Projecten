@@ -9,11 +9,11 @@ In this group project, we engineered a soft robot. To monitor the robot’s stat
 (code coming online soon)
 
 ## Personal
-* ###[drivers license](https://github.com/cyuzuzo-j/rijbewjis)
+* ### [drivers license](https://github.com/cyuzuzo-j/rijbewjis)
 This is a Python script designed to continuously monitor the availability of driver’s license appointments. The script is capable of significantly reducing the waiting time for an appointment from several months to just a few weeks.
 (This script was developed within a span of half an hour, hence the quality of the code may not be optimal.)
 
-* ###[Arch linux](https://raw.githubusercontent.com/cyuzuzo-j/Projecten/main/ui_screenshot.png?token=GHSAT0AAAAAACN2RUVICR6LMW2VPHUAURAOZPKIS6A)
+* ### [Arch linux](https://raw.githubusercontent.com/cyuzuzo-j/Projecten/main/ui_screenshot.png?token=GHSAT0AAAAAACN2RUVICR6LMW2VPHUAURAOZPKIS6A)
 I have constructed an arch instalation that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine.
 I have constructed an operating system that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine. The use of these innovative tools has greatly contributed to the system’s performance and aesthetics.
 
