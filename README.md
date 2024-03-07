@@ -17,10 +17,15 @@ This is a Python script designed to continuously monitor the availability of dri
 I have constructed an arch instalation that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine.
 I have constructed an operating system that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine. The use of these innovative tools has greatly contributed to the system’s performance and aesthetics.
 
+* ### [Level Sensor]
+I am currently working on a project that involves developing an application to monitor the water level in my garden’s well. The hardware for this project, an industrial-grade water level sensor, which is connected to an ESP32 board. This board will host a set of APIs that the application can interface with. While the design of the application is still underway, the hardware component of the project is already complete. 
+[desing prototyp 1](https://www.figma.com/proto/6Y9URGF1Qm95b1CGHM1RMq/Sensor-app?page-id=14%3A141&type=design&node-id=14-142&viewport=552%2C-635%2C1.84&t=4OanNExQR7M7p960-1&scaling=scale-down&starting-point-node-id=14%3A142&mode=design)
+
+## old Personal
+these are project i made in high school, while i personaly think they are very intersting the code quality isin't representative of my current skill
 ### machine learning
-* #### [VierOpEenRij:](https://github.com/cyuzuzo-j/Connect4)
-        Dit is een project waar ik een aan het maken ben bot die probeert vier op een rij te spelen.
-        In dit project heb ik gebruik gemaakt van deep q learning.
+* #### [Connect4:](https://github.com/cyuzuzo-j/Connect4)
+This project was an attempt to create a bot capable of playing Connect4 at a decent level using deep Q-learning. Although it never fully succeeded, it marked the beginning of a series of projects where I explored the application of deep reinforcement learning in various domains.
 * #### [BtcBot:](https://github.com/cyuzuzo-j/btcbot4.0)
         Dit is een "onderzoek" project om te testen hoe autoencoders grotendeels stochatische kunnen benaderen
         om trainingsdata te genereren / preprocessen.In andere itteraties van dit project heb ik het nut van transformers, reinforcement learning getest.
