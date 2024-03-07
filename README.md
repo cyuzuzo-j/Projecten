@@ -2,8 +2,7 @@ theme: Cayman
 # Projecten
 ## unief
 * #### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
-       In this project, I held the responsibility for the Android application and the Arduino code.
-       This code encompasses the front-end of the application and the communication with the Arduino via HTTP.
+This project entailed the construction of an autonomous robot. In this endeavor, my role was to oversee the development of the Android application and the Arduino code. The code I    developed included the front-end of the application and facilitated communication with the Arduino via HTTP.
        [playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
 
 * #### Peno3:
