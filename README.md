@@ -1,16 +1,20 @@
-theme: Cayman
 # Projecten
-## unief
+## Unie
 * #### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
   This project entailed the construction of an autonomous robot capable of delivering beans from a certain reservoir to another one. In this endeavor, my role was to develope a Android application and the Arduino code. The code I developed included the front-end of the application and facilitated communication with the Arduino via HTTP.<br/>
   [playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
 
 * #### Peno3:
-        In dit Project Is de frontEnd gebouwed in js React.
-        peno3 team: Daniel Kawam,Jakob De Meyere, Maarten Cailoux, Maxime Brion; Vincent Cautaerts,
+In this group project, we engineered a soft robot. To monitor the robot’s status, I developed a user interface that can display the current state of each valve and provide a camera feed. This application was constructed using React.
+(code coming online soon)
+## Personal
+* ###[drivers license](https://github.com/cyuzuzo-j/rijbewjis)
+This is a Python script designed to continuously monitor the availability of driver’s license appointments. The script is capable of significantly reducing the waiting time for an appointment from several months to just a few weeks.
+(This script was developed within a span of half an hour, hence the quality of the code may not be optimal.)
+* ###[Arch linux](https://raw.githubusercontent.com/cyuzuzo-j/Projecten/main/ui_screenshot.png?token=GHSAT0AAAAAACN2RUVICR6LMW2VPHUAURAOZPKIS6A)
+I have constructed an arch instalation that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine.
+I have constructed an operating system that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine. The use of these innovative tools has greatly contributed to the system’s performance and aesthetics.
 
-Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en nieuwe projecten. Ik heb deze projecten gedaan uit persoonlijke interesse en passie, dus ik heb alleen commentaar toegevoegd waar ik dat toen nodig vond. (Deze repo is nog in ontwikkeling)
-## Python
 ### machine learning
 * #### [VierOpEenRij:](https://github.com/cyuzuzo-j/Connect4)
         Dit is een project waar ik een aan het maken ben bot die probeert vier op een rij te spelen.
@@ -30,12 +34,7 @@ Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en 
           Dit is een project waarbij ik een script heb geschreven dat een spotify playlist omzet naar mp4 bestanden.
 
 ## arduino
-* #### [Peno2:](https://github.com/cyuzuzo-j/arduino_code_211)
-        In dit project hebben voornamelijk Mauro Jannsens en ik (rest van het team staat vanonder). 
-        De besturing van een robot op basis van isntructies die van draadloos van een android app kwamen, sensor data van een enkele magneet sensor, een gewichtsensor en een kleursensor.
-        peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
-* #### Peno3:
-       TODO
+
 
 ## front end development
 * #### varia:
