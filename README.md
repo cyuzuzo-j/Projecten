@@ -1,6 +1,15 @@
 theme: Cayman
 # Projecten
-## inleiding
+## unief
+* #### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
+       In this project, I held the responsibility for the Android application and the Arduino code.
+       This code encompasses the front-end of the application and the communication with the Arduino via HTTP.
+       [playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
+
+* #### Peno3:
+        In dit Project Is de frontEnd gebouwed in js React.
+        peno3 team: Daniel Kawam,Jakob De Meyere, Maarten Cailoux, Maxime Brion; Vincent Cautaerts,
+
 Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en nieuwe projecten. Ik heb deze projecten gedaan uit persoonlijke interesse en passie, dus ik heb alleen commentaar toegevoegd waar ik dat toen nodig vond. (Deze repo is nog in ontwikkeling)
 ## Python
 ### machine learning
@@ -30,15 +39,6 @@ Welkom op mijn portfolio-pagina. Hier kunt u een selectie zien van mijn oude en 
        TODO
 
 ## front end development
-* #### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
-        In dit Project was ik verantwoordelijk voor de android app (aleen), arduino code (met Mauro Jansens).Deze code bevat de front end van de applicatie en de communicatie met de arduino (via http).
-        peno2 team 211:Rob Gillis, Christopher Darell, Daniel Kawam, Mauro Jannsens, Thor Huyge, Alec Buts, Gedeon Kabongo, Jeff Jambé
-
-[playstore](https://play.google.com/store/apps/details?id=com.BeanBOT.compose.BeanBot&hl=en&gl=US)
-
-* #### Peno3:
-        In dit Project Is de frontEnd gebouwed in js React.
-        peno3 team: Daniel Kawam,Jakob De Meyere, Maarten Cailoux, Maxime Brion; Vincent Cautaerts,
 * #### varia:
 [design water niveau meter](https://www.figma.com/proto/6Y9URGF1Qm95b1CGHM1RMq/Sensor-app?page-id=14%3A141&type=design&node-id=14-142&viewport=552%2C-635%2C1.84&t=4OanNExQR7M7p960-1&scaling=scale-down&starting-point-node-id=14%3A142&mode=design), [peno3 design prototype 1](https://www.figma.com/proto/R3G63IjHz1RToK2EN21NWL/peno3?page-id=0%3A1&type=design&node-id=92-2&viewport=338%2C416%2C0.63&t=f1TqwIj1ZHa36K22-1&scaling=scale-down&mode=design)
  
