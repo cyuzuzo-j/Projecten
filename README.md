@@ -1,5 +1,5 @@
 # Projects
-Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time i would encourage you to look at Peno2, drivers license and BtcBot.
+Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time I would encourage you to look at Peno2, drivers license and BtcBot.
 ## University
 * ### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
   This project entailed the construction of an autonomous robot capable of delivering beans from a certain reservoir to another one. In this endeavor, my role was to develope a Android application and the Arduino code. The code I developed included the front-end of the application and facilitated communication with the Arduino via HTTP.<br/>
