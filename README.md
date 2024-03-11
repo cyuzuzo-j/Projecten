@@ -22,7 +22,7 @@ I have constructed an operating system that is visually appealing, efficient, an
 I am currently working on a project that involves developing an application to monitor the water level in my garden’s well. The hardware for this project, an industrial-grade water level sensor, which is connected to an ESP32 board. This board will host a set of APIs that the application can interface with. While the design of the application is still underway, the hardware component of the project is already complete. 
 [desing prototype 1](https://www.figma.com/proto/6Y9URGF1Qm95b1CGHM1RMq/Sensor-app?page-id=14%3A141&type=design&node-id=14-142&viewport=552%2C-635%2C1.84&t=4OanNExQR7M7p960-1&scaling=scale-down&starting-point-node-id=14%3A142&mode=design)
 
-## old Personal
+## Old personal
 This is a small subset of the projects I attempted in high school. While they are conceptually interesting, the quality of the code/repository is very poor.
 
 ### machine learning
