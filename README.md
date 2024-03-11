@@ -1,4 +1,4 @@
-# Projecten
+# Projects
 Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time i would encourage you to look at Peno2, drivers license and BtcBot.
 ## University
 * ### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
