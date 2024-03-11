@@ -14,7 +14,7 @@ In this group project, we engineered a soft robot. To monitor the robot’s stat
 This is a Python script designed to continuously monitor the availability of driver’s license appointments. The script is capable of significantly reducing the waiting time for an appointment from several months to just a few weeks.
 (This script was developed within a span of half an hour, hence the quality of the code may not be optimal.)
 
-* ### [Arch linux](https://raw.githubusercontent.com/cyuzuzo-j/Projecten/main/ui_screenshot.png?token=GHSAT0AAAAAACN2RUVICR6LMW2VPHUAURAOZPKIS6A)
+* ### [Arch linux](https://github.com/cyuzuzo-j/Projecten/blob/main/ui_screenshot.png)
 I have constructed an arch instalation that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine.
 I have constructed an operating system that is visually appealing, efficient, and moderately lightweight. This was achieved by utilizing Hyprland and a variety of other relatively new and lesser-known applications. I find this operating system to be highly useful and it has become a part of my daily computing routine. The use of these innovative tools has greatly contributed to the system’s performance and aesthetics.
 
@@ -29,7 +29,8 @@ This is a small subset of the projects I attempted in high school. While they ar
 * #### [Connect4:](https://github.com/cyuzuzo-j/Connect4)
 This project was an attempt to create a bot capable of playing Connect4 at a decent level using deep Q-learning. Although it never fully succeeded, it marked the beginning of a series of projects where I explored the application of deep reinforcement learning in various domains.
 * #### [BtcBot:](https://github.com/cyuzuzo-j/btcbot4.0)
-In this project, I am attempting to utilize an autoencoder to develop a practical compressor and dataset generator. This tool will be instrumental in a future project where I plan to employ reinforcement learning for trading cryptocurrencies. In an earlier version of this project, I endeavored to construct a [trading bot](https://github.com/cyuzuzo-j/cryptobot) using a basic policy gradient, but regrettably, it was unsuccessful. I acknowledge that creating a fully functional bot is likely an unattainable goal.<br/>
+In this project, I am attempting to utilize an autoencoder to develop a practical compressor and dataset generator. This tool will be instrumental in a future project where I plan to employ reinforcement learning for trading cryptocurrencies. In an earlier version of this project, I endeavored to construct a [trading bot](https://github.com/cyuzuzo-j/cryptobot) using a basic policy gradient, but regrettably, it was unsuccessful. I acknowledge that creating a fully functional bot is likely an unattainable goal.
+
 ### Etc
 * #### DroneControl:
 This is a project where I attempted to control a drone using a gyroscope and a Raspberry Pi. The special aspect of this project is that at the start of the program, you calibrate the different directions by making a random hand movement. This data is then used to train a neural network that converts the raw data from the gyroscope into drone movements during flight.
