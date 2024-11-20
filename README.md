@@ -1,5 +1,5 @@
 # Projects
-Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time I would encourage you to look at Peno2, drivers license and BtcBot.
+Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time I would encourage you to look at Connect4,Peno2 and BtcBot.
 ## University
 * ### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
   This project entailed the construction of an autonomous robot capable of delivering beans from a certain reservoir to another one. In this endeavor, my role was to develope a Android application and the Arduino code. The code I developed included the front-end of the application and facilitated communication with the Arduino via HTTP.<br/>
@@ -23,7 +23,7 @@ I am currently working on a project that involves developing an application to m
 [desing prototype 1](https://www.figma.com/proto/6Y9URGF1Qm95b1CGHM1RMq/Sensor-app?page-id=14%3A141&type=design&node-id=14-142&viewport=552%2C-635%2C1.84&t=4OanNExQR7M7p960-1&scaling=scale-down&starting-point-node-id=14%3A142&mode=design)
 
 ## Old personal
-This is a small subset of the projects I attempted in high school. While they are conceptually interesting, the quality of the code/repository is very poor.
+This is a small subset of the projects I attempted in high school. While they are conceptually interesting, the quality of the code/repository is not representative of my current programming skills.
 
 ### machine learning
 * #### [Connect4:](https://github.com/cyuzuzo-j/Connect4)
