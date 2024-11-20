@@ -1,5 +1,5 @@
 # Projects
-Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time I would encourage you to look at Connect4,Peno2 and BtcBot.
+Hello, welcome to my repository. This website showcases a subset of my projects. Please note that most of these projects were not originally intended for publication and may lack sufficient documentation for others to use or understand them. If you have limited time I would encourage you to look at Connect4,Peno2 and trading bot.
 ## University
 * ### [Peno2](https://github.com/cyuzuzo-j/BeanBotApp)
   This project entailed the construction of an autonomous robot capable of delivering beans from a certain reservoir to another one. In this endeavor, my role was to develope a Android application and the Arduino code. The code I developed included the front-end of the application and facilitated communication with the Arduino via HTTP.<br/>
@@ -28,9 +28,10 @@ This is a small subset of the projects I attempted in high school. While they ar
 ### machine learning
 * #### [Connect4:](https://github.com/cyuzuzo-j/Connect4)
 This project was an attempt to create a bot capable of playing Connect4 at a decent level using deep Q-learning. Although it never fully succeeded, it marked the beginning of a series of projects where I explored the application of deep reinforcement learning in various domains.
-* #### [BtcBot:](https://github.com/cyuzuzo-j/btcbot4.0)
-In this project, I am attempting to utilize an autoencoder to develop a practical compressor and dataset generator. This tool will be instrumental in a future project where I plan to employ reinforcement learning for trading cryptocurrencies. In an earlier version of this project, I endeavored to construct a [trading bot](https://github.com/cyuzuzo-j/cryptobot) using a basic policy gradient, but regrettably, it was unsuccessful. I acknowledge that creating a fully functional bot is likely an unattainable goal.
+* #### [trading bot](https://github.com/cyuzuzo-j/cryptobot)
+In this project, I attempted building a functioning trading bot using deep reinforcement learning, I tried implementing my own policy gradient algorithm, using a ppo,...but regrettably, it was unsuccessful. I acknowledge that creating a fully functional bot is likely an unattainable goal.
 
+In a related project [btcbot](https://github.com/cyuzuzo-j/btcbot4.0), I'm taking a different approach by developing an autoencoder-based system. This system serves two primary functions: compressing trading data and generating synthetic datasets. The goal is to use this as a custom environment for future iterations of the trading bot, potentially providing a more controlled space for reinforcement learning experiments.
 ### Etc
 * #### DroneControl:
 This is a project where I attempted to control a drone using a gyroscope and a Raspberry Pi. The special aspect of this project is that at the start of the program, you calibrate the different directions by making a random hand movement. This data is then used to train a neural network that converts the raw data from the gyroscope into drone movements during flight.
